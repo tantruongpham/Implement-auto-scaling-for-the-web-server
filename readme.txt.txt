@@ -1,0 +1,1 @@
+DNS name: ASM1-LoadBlancer-392640037.ap-southeast-1.elb.amazonaws.com
